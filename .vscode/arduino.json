@@ -1,0 +1,5 @@
+{
+    "sketch": "first.cpp",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyUSB0"
+}
