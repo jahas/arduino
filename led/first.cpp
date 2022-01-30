@@ -34,5 +34,4 @@ void flash(int ratio)
 void ledOnOff(int led, int thestate)
 {
     digitalWrite(led, thestate);
-    delay(500);
 }
